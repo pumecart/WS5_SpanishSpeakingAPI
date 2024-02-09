@@ -1,0 +1,74 @@
+[
+  {
+    "countryName": "Equatorial Guinea",
+    "flag": "GQ",
+    "capital": "Malabo",
+    "population": "1,225,377",
+    "percentNativeSpeakers": "74%"
+  },
+  {
+    "countryName": "Columbia",
+    "flag": "CO",
+    "capital": "Bogota",
+    "population": "51,049,489",
+    "percentNativeSpeakers": "99.20%"
+  },
+  {
+    "countryName": "Argentina",
+    "flag": "AR",
+    "capital": "Buenos Aires",
+    "population": "45,808,747",
+    "percentNativeSpeakers": "98.10%"
+  },
+  {
+    "countryName": "El Salvador",
+    "flag": "SV",
+    "capital": "San Salvador",
+    "population": "6,518,499",
+    "percentNativeSpeakers": "99.70%"
+  },
+  {
+    "countryName": "Peru",
+    "flag": "PE",
+    "capital": "Lima",
+    "population": "33,149,016",
+    "percentNativeSpeakers": "86.60%"
+  },
+  {
+    "countryName": "Spain",
+    "flag": "ES",
+    "capital": "Madrid",
+    "population": "47,431,256",
+    "percentNativeSpeakers": "92%"
+  },
+  {
+    "countryName": "Puerto Rico",
+    "flag": "PR",
+    "capital": "San Juan",
+    "population": "3,193,694",
+    "percentNativeSpeakers": "99%"
+  },
+  {
+    "countryName": "Cuba",
+    "flag": "CU",
+    "capital": "Havana",
+    "population": "11,317,505",
+    "percentNativeSpeakers": "99.80%"
+  },
+  {
+    "countryName": "Mexico",
+    "flag": "MX",
+    "capital": "Mexico City",
+    "population": "128,972,439",
+    "percentNativeSpeakers": "96.80%"
+  },
+  {
+    "countryName": "Guatemala",
+    "flag": "GT",
+    "capital": "Guatemala City",
+    "population": "17,109,746",
+    "percentNativeSpeakers": "78.30%"
+  }
+]
+
+
