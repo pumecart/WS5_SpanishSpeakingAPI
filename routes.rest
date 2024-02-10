@@ -26,7 +26,7 @@ Content-Type: application/json
       "capital": "Tegucigalpa",
       "population": "9,450,711",
       "percentNativeSpeakers": "98.70%"
-},
+}
 
 
 ###PUT contact
@@ -42,7 +42,7 @@ Content-Type: application/json
 }
 
 ###DELETE contact
-DELETE http://localhost:8080/spanishSpeaking/65b566e902f3f3feeb88e383 HTTP/1.1
+DELETE http://localhost:8080/spanishSpeaking/65c8018011fa1bf25df84ea0 HTTP/1.1
 
 
 ### PRODUCTION Deploy 
