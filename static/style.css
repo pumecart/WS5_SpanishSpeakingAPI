@@ -2,11 +2,6 @@
     margin: none;
 }
 
-.body{
-    height: 100%;
-    padding: 5px;
-}
-
 .unauthorized-content{
     background-image: linear-gradient(red, yellow);
 }
