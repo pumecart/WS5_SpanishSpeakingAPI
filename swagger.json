@@ -5,7 +5,7 @@
     "description": "Collection of Spanish Speaking Country Info",
     "version": "1.0.0"
   },
-  "host": "localhost:8080/api-docs",
+  "host": "localhost:8080",
   "basePath": "/",
   "schemes": [
     "http"
