@@ -37,12 +37,12 @@ Content-Type: application/json
     "countryName": "Guatemala",
     "flag": "GT",
     "capital": "Guatemala City",
-    "population": "15,555,746",
-    "percentNativeSpeakers": "90.50%"
+    "population": "10,555,746",
+    "percentNativeSpeakers": "93.50%"
 }
 
 ###DELETE contact
-DELETE http://localhost:8080/spanishSpeaking/65d0fa42723280c4fbe16c4e HTTP/1.1
+DELETE http://localhost:8080/spanishSpeaking/65e40832f3261cc598939a80 HTTP/1.1
 
 
 ### PRODUCTION Deploy 
