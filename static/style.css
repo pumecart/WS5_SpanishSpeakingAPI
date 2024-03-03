@@ -2,24 +2,34 @@
     margin: none;
 }
 
-.unauthorized-content{
-    background-image: linear-gradient(red, yellow);
+body{
+    background-image: linear-gradient(to right, red, yellow);
 }
 
 .login-button{
     text-align: center;
 }
 
-.hero.img {
-    max-width: 100%;
+img {
+    width: 300px;
     height: auto;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
   }
 
+h1, h2{
+    font-size: 32px;
+    text-align: center;
+}
 
-.authorized-content{
-    display: none;
+.btn{
+    border: 3px solid black;
+    border-radius: 15px;
+    background-color: black;
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+    text-decoration: none;
+    color: white;
 }
