@@ -5,10 +5,10 @@
     "description": "Collection of Spanish Speaking Country Info",
     "version": "1.0.0"
   },
-  "host": "ws5-spanishspeakingapi.onrender.com/",
+  "host": "localhost:8080/api-docs",
   "basePath": "/",
   "schemes": [
-    "https"
+    "http"
   ],
   "paths": {
     "/spanishSpeaking/": {

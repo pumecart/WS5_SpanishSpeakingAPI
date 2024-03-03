@@ -5,10 +5,10 @@ const doc = {
     title: 'Spanish Speaking Countries',
     description: 'Collection of Spanish Speaking Country Info'
   },
-  host: 'ws5-spanishspeakingapi.onrender.com',
-  schemes: ['https']
-  // host: 'localhost:8080',
-  // schemes: ['http']
+  // host: 'ws5-spanishspeakingapi.onrender.com',
+  // schemes: ['https']
+  host: 'localhost:8080',
+  schemes: ['http']
 };
 
 const outputFile = './swagger.json';
